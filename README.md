@@ -1,4 +1,4 @@
 # UnityGame
 ##Jogo básico em 2D feito na Unity.
 
-Basta apenas clonar, para poder aproveitar deste simples game !!
+A intenção com esse projeto foi começar a melhorar minhas habilidades com a Unity e com o C#.
